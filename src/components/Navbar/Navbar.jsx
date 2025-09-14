@@ -45,7 +45,7 @@ const Navbar = () => {
       <div className="text-white py-5 flex justify-between items-center">
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-[#edeb85ff]">&lt;</span>
-          <span className="text-white">Nahla🐱</span>
+          <span className="text-white">Nahla</span>
           <span className="text-[#edeb85ff]">/</span>
           <span className="text-white">Mohammed</span>
           <span className="text-[#edeb85ff]">&gt;</span>
