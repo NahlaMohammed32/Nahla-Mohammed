@@ -151,8 +151,8 @@ export const SkillsInfo = [
     }, {
       id: 0,
       img: agroLogo,
-      school: "Faculty of Agriculture ",
-      date: "Sept 2022 - July 2024",
+      school: "Faculty of Agriculture Department (Land & Soil) ",
+      date: "Sep 2019 - June 2023",
       grade: "2.8 GPA",
       desc: "Bachelor’s degree in Agriculture from Damanhour University, where I studied GIS and developed a strong interest in smart agriculture. I connected my knowledge in agriculture with programming to explore technology-driven solutions for modern farming.",
       degree: "Bachelor of Agriculture, Damanhour University",
